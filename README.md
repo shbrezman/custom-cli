@@ -1,6 +1,6 @@
 # Custom-cli
 
-## a custom cli interface
+## A custom cli interface built to communicate with specific data
 
 ### tool list : 
 
